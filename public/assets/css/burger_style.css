@@ -1,7 +1,7 @@
 li {
     padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: white;
   }
   
 .col-centered {
@@ -13,6 +13,12 @@ li {
   margin-left: 0.2%;
 }
 
-h1 {
+h1, h2, label {
   text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+.body {
+  background-color: #FF7710;
 }
