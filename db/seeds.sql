@@ -1,3 +1,4 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ('Patty Melt', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Juicy Lucy', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Bacon Burger', true);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Hamburger', true);
