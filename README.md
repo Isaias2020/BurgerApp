@@ -8,7 +8,7 @@
 
 ## Description 
 
-This application is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.  I followed the MVC design pattern; used Node and MySQL to query and route data into the application.  Handlebars are used to generate the HTML.  
+This application is a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.  I followed the MVC design pattern; used Node and MySQL to query and route data into the application.  Handlebars are used to generate the HTML.  Here is the link to the [BurgerApp](https://rocky-chamber-59672.herokuapp.com/).
 
 ## Table of Contents
 
